@@ -15,7 +15,7 @@
 			"80": {
 				"label": "Labeled Port",
 				"onAutoForward": "notify",
-				"elevateIfNeeded": true
+				"elevateIfNeeded": false
 			}
 		}
 	},
